@@ -1,6 +1,6 @@
 # Zadanie Neoship
 
-K dispozícií sú dva súbory, [cennik]() a [zasielky](). Úlohou tohto zadania je napísať jednoduchú php aplikáciu, ktorá spracuje zásielky a vypočíta správne ceny podľa zvoleného cenníka. Každá zásielka ma definovanú krajinu, hmotnosť a prípadne príplatkové služby, ktoré by napočítaná cena mala zohľadňovať. Výslednú cenu treba uviesť bez DPH aj s DPH (20%). Výsledok môže byť opäť súbor, HTML tabuľka, ... 
+K dispozícií sú dva súbory, [cennik](https://github.com/neoship/homework/blob/master/cennik.xlsx) a [zasielky](https://github.com/neoship/homework/blob/master/zasielky.xlsx). Úlohou tohto zadania je napísať jednoduchú php aplikáciu, ktorá spracuje zásielky a vypočíta správne ceny podľa zvoleného cenníka. Každá zásielka ma definovanú krajinu, hmotnosť a prípadne príplatkové služby, ktoré by napočítaná cena mala zohľadňovať. Výslednú cenu treba uviesť bez DPH aj s DPH (20%). Výsledok môže byť opäť súbor, HTML tabuľka, ... 
 
 ## Požiadavky
 
@@ -10,7 +10,7 @@ K dispozícií sú dva súbory, [cennik]() a [zasielky](). Úlohou tohto zadania
 
 ## Súbory
 
-[cennik](), [zasielky]()
+[cennik](https://github.com/neoship/homework/blob/master/cennik.xlsx), [zasielky](https://github.com/neoship/homework/blob/master/zasielky.xlsx)
 
 ## Kontakt
 
